@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Davalos</title>
+    <link>https://alex-davalos.github.io/</link>
+    <description>Recent content on Alex Davalos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 03 Dec 2019 15:14:33 -0500</lastBuildDate>
+    
+	<atom:link href="https://alex-davalos.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://alex-davalos.github.io/page-about-me/</link>
+      <pubDate>Tue, 03 Dec 2019 15:14:33 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/page-about-me/</guid>
+      <description>Hello! I’m Alex.
+I am passionate about building simple and effecive user experiences.
+Technologies I use  Javascript React HTML5 CSS3 Sass Bootstrap4 SQL  </description>
+    </item>
+    
+    <item>
+      <title>Contact Information</title>
+      <link>https://alex-davalos.github.io/page-contact/</link>
+      <pubDate>Tue, 03 Dec 2019 15:14:33 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/page-contact/</guid>
+      <description>Thank you for visiting my site. Please feel free to communicate with me through the following methods:
+Email: davalos.alexh@gmail.com Phone: 571-213-1707 Github: alex-davalos </description>
+    </item>
+    
+    <item>
+      <title>Recipe Search App</title>
+      <link>https://alex-davalos.github.io/projects/project-recipeapp/</link>
+      <pubDate>Tue, 01 Oct 2019 15:17:50 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/projects/project-recipeapp/</guid>
+      <description>View Source Application that allows user to look up recipes based off of a key ingredient. The application is written in React and the recipe search API from edamam.com. There are more than one million search results for this API!
+Skills Acquired:  React API Javascript Async, Await UseEffect method  More projects will be added soon! </description>
+    </item>
+    
+    <item>
+      <title>Google Calculator</title>
+      <link>https://alex-davalos.github.io/projects/project-calc/</link>
+      <pubDate>Thu, 01 Aug 2019 15:17:50 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/projects/project-calc/</guid>
+      <description>Demo View Source Application modeled after the Google calculator. Applied techniques learned from JavaScript Crash Course - vanilla js, structuring app, and dom manipulation. This project helped me gain a better understanding of JavaScript fundamentals.
+Skills Acquired:  Javascript HTML5 CSS3 ES6  More projects will be added soon! </description>
+    </item>
+    
+  </channel>
+</rss>
