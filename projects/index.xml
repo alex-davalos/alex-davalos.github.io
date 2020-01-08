@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 15:17:50 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 15:17:50 -0500</lastBuildDate>
     
 	<atom:link href="https://alex-davalos.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Todo List</title>
+      <link>https://alex-davalos.github.io/projects/project-todolist/</link>
+      <pubDate>Sun, 01 Dec 2019 15:17:50 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/projects/project-todolist/</guid>
+      <description>View Source Application that allows users to add tasks to a todo list. User is able to add and remove tasks in the list. Added hovering feature to make it more clear to user which task their cursor is on.
+Applied techniques learned from FreeCodeCamp&#39;s Learn React JS series - React fundamentals, React state, JSX, and css styling. This project helped me gain a better understanding of React.js fundamentals.
+Skills Acquired:  React.</description>
+    </item>
     
     <item>
       <title>Recipe Search App</title>
@@ -30,6 +41,16 @@ Skills Acquired:  React API Javascript Async, Await UseEffect method  More proje
       <guid>https://alex-davalos.github.io/projects/project-calc/</guid>
       <description>Demo View Source Application modeled after the Google calculator. Applied techniques learned from JavaScript Crash Course - vanilla js, structuring app, and dom manipulation. This project helped me gain a better understanding of JavaScript fundamentals.
 Skills Acquired:  Javascript HTML5 CSS3 ES6  More projects will be added soon! </description>
+    </item>
+    
+    <item>
+      <title>Netflix Page</title>
+      <link>https://alex-davalos.github.io/projects/project-netflix/</link>
+      <pubDate>Mon, 01 Jul 2019 15:17:50 -0500</pubDate>
+      
+      <guid>https://alex-davalos.github.io/projects/project-netflix/</guid>
+      <description>Demo View Source Replicated a version of Netflix&#39;s webpage based off of project from Traversy Media&#39;s Udemy course.
+Projects goal was to master the use of CSS including the concepts of Flexbox and Grid. Javascript was used to allow for content to be displayed on different tabs of the webpage. Page was designed to be responsive in case user viewed on a smaller screen such as a mobile device. Used the icon toolkit &amp;ldquo;Font Awesome&amp;rdquo; for icons.</description>
     </item>
     
   </channel>
